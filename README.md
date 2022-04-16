@@ -1,8 +1,8 @@
 
 
-# Inventory-Management
+# JSON Based Inventory Management System
 
-A program for simple inventory management.
+A program for simple Inventory Management System.
 
 # Product.json file 
 
